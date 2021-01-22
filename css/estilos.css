@@ -1,14 +1,20 @@
 body{
-    text-align: center;
     font-family: Arial;
 }
 header{
     background-color: #222;
     padding: 1em 2em;
+    text-align: center;
+    border-left: 10px solid #63b1c5;
+    border-right: 10px solid #63b1c5;
 }
 h1{
-    color: deeppink;
+    color: #36afce;
 }
 h1 small{
     color: #fff
+}
+p{
+    margin: 2em 3em;
+    text-align: justify;
 }
