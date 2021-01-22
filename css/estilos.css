@@ -1,5 +1,9 @@
 body{
-    text-align: center;
     font-family: Arial;
-    color: deeppink;
+}
+h2, p{
+    color: #222;
+}
+p{
+    margin: 2em 3em;
 }
