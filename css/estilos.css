@@ -1,5 +1,14 @@
 body{
     text-align: center;
     font-family: Arial;
+}
+header{
+    background-color: #222;
+    padding: 1em 2em;
+}
+h1{
     color: deeppink;
+}
+h1 small{
+    color: #fff
 }
