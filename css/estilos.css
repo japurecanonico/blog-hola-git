@@ -18,6 +18,8 @@ h1 small{
     color: #fff
 }
 p{
-    margin: 2em 3em;
     text-align: justify;
+}
+.contenido{
+    margin: 3em;
 }
